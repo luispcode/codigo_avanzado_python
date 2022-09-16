@@ -1,0 +1,7 @@
+venv/
+*.webp
+*.pdf
+*.png
+*.jpg
+*.cfg
+requirements_test.txt
